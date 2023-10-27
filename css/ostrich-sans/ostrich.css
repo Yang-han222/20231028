@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Ostrich';
+    src: url('ostrich-sans-regular.eot');
+    /* IE9 兼容模式 */
+    src: local('ostrich'), /* 指定使用者電腦裡的字體名稱 */
+    url('ostrich-sans-regular.eot#iefix') format('embedded-opentype'), /* IE6 - IE8 */
+    url('ostrich-sans-regular.woff') format('woff'), /* 現代瀏覽器 */
+    url('ostrich-sans-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('ostrich-sans-regular.svg#Ostrich') format('svg');
+    /* iOS */
+    font-weight: 400;
+    font-style: normal;
+}
